@@ -98,3 +98,5 @@ Press ESC to exit the program.
 * Human-computer interaction
 * Smart communication devices
 * Educational tools for learning sign language
+
+**Dataset not included due to size.**
