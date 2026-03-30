@@ -50,10 +50,12 @@ Saved trained model.
 
 # Installation
 1. Clone the repository
+
    *git clone https://github.com/yourusername/sign-language-recognition.git*
    *cd sign-language-recognition*
-2. Install required libraries
-   pip install tensorflow opencv-python numpy
+3. Install required libraries
+
+   *pip install tensorflow opencv-python numpy*
 
 # Training the Model
 Place your training images inside the dataset folder, grouped by sign.
